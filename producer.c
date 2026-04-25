@@ -8,9 +8,9 @@ int fact(int n)
   for(int i=1;i<=n;i++)
     f=f*i;
 return f;
-      
+}      
 int main()
-{  int n,r,nf,rf,nrf
+{  int n,r,nf,rf,nrf;
   printf("Enter n;");
 scanf("%d",&n);
   printf("Enter r;");
