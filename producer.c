@@ -1,5 +1,5 @@
-#include<sys.ipc.h>
-#include<sys.shm.h>
+#include<sys/ipc.h>
+#include<sys/shm.h>
 #include<stdio.h>
 
 int fact(int n)
